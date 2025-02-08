@@ -21,7 +21,7 @@ const Footer = () => {
                         <div className="phone">
                             <h4>
                                 <FaPhone size={22} style={{ color: "#fff", marginRight: "2rem" }} />
-                                (213) 555-7890
+                                (+92) 310 8316165
                             </h4>
                         </div>
                         <div className="email">
