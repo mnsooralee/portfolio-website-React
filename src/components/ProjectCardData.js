@@ -9,15 +9,15 @@ const ProjectCardData = [
         imgsrc: project1,
         title: "Responsive Homepage",
         text:"Developed a responsive one-page website using HTML and CSS. Implemented a dynamic navigation menu and a smooth side-bar toggle. Utilized CSS for styling and visual appeal, with a focus on responsiveness across different devices.",
-        view: "",
-        source: ""
+        view: "digitalworldwithvjmansoor.vercel.app",
+        source: "digitalworldwithvjmansoor.vercel.app"
     },
     {
         imgsrc: project2,
         title: "Dynamic UI Login/Signup Page",
         text:"Developed a responsive login/signup page. The interface dynamically adjusts, hiding or disabling unnecessary fields based on user actions. Applied modern CSS styling for user friendly design with seamless transitions. Also featuring an auto-generate password option combining letters, numbers, and special characters for sign-up.",
-        view: "",
-        source: ""
+        view: "loginandsignupform.vercel.app",
+        source: "loginandsignupform.vercel.app"
     },
     {
         imgsrc: project3,
@@ -30,8 +30,8 @@ const ProjectCardData = [
         imgsrc: project4,
         title: "Weather App",
         text:"Developed a weather application in HTML, CSS, and JavaScript fetching real-time weather data from the OpenWeatherMap API. Displays weather details like temperature, humidity, wind speed, and relevant icons based on conditions.",
-        view: "",
-        source: ""
+        view: "https://weatherupdats.vercel.app/",
+        source: "https://weatherupdats.vercel.app/"
     },
     {
         imgsrc: project5,
