@@ -9,15 +9,15 @@ const ProjectCardData = [
         imgsrc: project1,
         title: "Responsive Homepage",
         text:"Developed a responsive one-page website using HTML and CSS. Implemented a dynamic navigation menu and a smooth side-bar toggle. Utilized CSS for styling and visual appeal, with a focus on responsiveness across different devices.",
-        view: "digitalworldwithvjmansoor.vercel.app",
-        source: "digitalworldwithvjmansoor.vercel.app"
+        view: "https://digitalworldwithvjmansoor.vercel.app/",
+        source: "https://digitalworldwithvjmansoor.vercel.app/"
     },
     {
         imgsrc: project2,
         title: "Dynamic UI Login/Signup Page",
         text:"Developed a responsive login/signup page. The interface dynamically adjusts, hiding or disabling unnecessary fields based on user actions. Applied modern CSS styling for user friendly design with seamless transitions. Also featuring an auto-generate password option combining letters, numbers, and special characters for sign-up.",
-        view: "loginandsignupform.vercel.app",
-        source: "loginandsignupform.vercel.app"
+        view: "https://loginandsignupform.vercel.app/",
+        source: "https://loginandsignupform.vercel.app/"
     },
     {
         imgsrc: project3,
@@ -44,8 +44,8 @@ const ProjectCardData = [
         imgsrc: project2,
         title: "Dynamic UI Login/Signup Page",
         text:"Developed a responsive login/signup page. The interface dynamically adjusts, hiding or disabling unnecessary fields based on user actions. Applied modern CSS styling for user friendly design with seamless transitions. Also featuring an auto-generate password option combining letters, numbers, and special characters for sign-up.",
-        view: "loginandsignupform.vercel.app",
-        source: "loginandsignupform.vercel.app"
+        view: "https://loginandsignupform.vercel.app/",
+        source: "https://loginandsignupform.vercel.app/"
     }
 ]
 export default ProjectCardData;
