@@ -37,7 +37,7 @@ const ProjectCardData = [
         imgsrc: project5,
         title: "Portfolio website in React JS.",
         text:"Built a React JS website with dynamic content, responsive design, and a user-friendly navigation system using React Router. including cards showcasing data passed through props. Implemented a responsive design for seamless viewing across various devices.",
-        view: "https://github.com/mnsooralee/portfolio-website-React",
+        view: "https://mansoorahmed.vercel.app/",
         source: "https://github.com/mnsooralee/portfolio-website-React"
     },
     {
